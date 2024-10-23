@@ -1,4 +1,3 @@
-import Meeting from '../meeting/[id]/page';
 import MeetingTypeList from '@/components/ui/MeetingTypeList';
 
 const Home = () => {
